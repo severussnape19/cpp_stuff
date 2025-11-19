@@ -1,9 +1,1 @@
-{
-    "python.autoComplete.extraPaths": [
-        "/opt/ros/jazzy/lib/python3.12/site-packages"
-    ],
-    "python.analysis.extraPaths": [
-        "/opt/ros/jazzy/lib/python3.12/site-packages"
-    ],
-    "C_Cpp.errorSquiggles": "disabled"
-}
+
